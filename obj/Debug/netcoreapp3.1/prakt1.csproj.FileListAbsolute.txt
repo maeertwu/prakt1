@@ -1,0 +1,14 @@
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\bin\Debug\netcoreapp3.1\prakt1.exe
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\bin\Debug\netcoreapp3.1\prakt1.deps.json
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\bin\Debug\netcoreapp3.1\prakt1.runtimeconfig.json
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\bin\Debug\netcoreapp3.1\prakt1.runtimeconfig.dev.json
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\bin\Debug\netcoreapp3.1\prakt1.dll
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\bin\Debug\netcoreapp3.1\prakt1.pdb
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\obj\Debug\netcoreapp3.1\prakt1.csproj.AssemblyReference.cache
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\obj\Debug\netcoreapp3.1\prakt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\obj\Debug\netcoreapp3.1\prakt1.AssemblyInfoInputs.cache
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\obj\Debug\netcoreapp3.1\prakt1.AssemblyInfo.cs
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\obj\Debug\netcoreapp3.1\prakt1.csproj.CoreCompileInputs.cache
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\obj\Debug\netcoreapp3.1\prakt1.dll
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\obj\Debug\netcoreapp3.1\prakt1.pdb
+C:\Users\Ксюша\OneDrive\Рабочий стол\Новая папка\prakt1\obj\Debug\netcoreapp3.1\prakt1.genruntimeconfig.cache
